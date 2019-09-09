@@ -2,7 +2,7 @@ This code may have a CPU usage issue
 
 # Running
 
-* First modify the serviceUrl String to point to an environment of your choice. It can be any env
+* First modify the serviceUrl String in plugins/TestPlugin to point to an environment of your choice. It can be any env
 
 * plugins/TestPlugin.main()
 
